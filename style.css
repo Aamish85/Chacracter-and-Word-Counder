@@ -1,0 +1,53 @@
+body, html {
+   
+   height: 100%;
+}
+
+#nav{
+    margin-bottom: 20px ;
+    
+    
+}
+#text{
+    margin-left: 32%;
+    font-size: 35px;
+}
+
+.bg{
+    background-image: url(img6.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+#textbox {
+    width: 60%;
+    border-color: rgb(211, 221, 226);
+    border-width: 3px;
+    background-color: rgb(199, 221, 216);
+    font-size: 20px;
+    border-radius: 8px;
+
+
+}
+
+
+p{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 22px;
+    border-radius: 10px;
+    background-color: rgb(199, 221, 216);
+}
+
+
+
+#main-div {
+    text-align: center;
+}
+  
+</style>
